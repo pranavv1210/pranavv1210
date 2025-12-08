@@ -1,8 +1,5 @@
 <div align="center">
-
-# Hi there 👋, I'm Pranav V  
-🚀 **AI & ML Enthusiast | Innovation in Tech | Tech Explorer**
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Pranav+V.;AI+%26+ML+Enthusiast;Tech+Explorer;Innovator" alt="Typing SVG" />
 </div>
 
 ---
@@ -11,7 +8,7 @@
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🛠️ Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -21,25 +18,37 @@
 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white)
 
-
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
-![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavv1210&show_icons=true&hide_title=true&count_private=true&hide=prs)
+<div align="center">
 
-![Pranav's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavv1210&layout=compact&hide_title=true)
+### ⚡ Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=pranavv1210&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
-![Pranav's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranavv1210&hide_border=true)
+### 🏆 Languages
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavv1210&layout=compact&theme=tokyonight)
+
+### 🔥 Streak
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=pranavv1210&theme=tokyonight)
+
+### 🚀 Contribution Graph
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranavv1210&theme=react-dark)
+
+### 🧠 Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=pranavv1210&theme=dracula&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-venu-550729264/)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pranavvenu)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pranavvenu_/)  
-[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pranavportfolioweb.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-venu-550729264/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@pranavvenu)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pranavvenu_/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pranavportfolioweb.onrender.com/)
 
 📧 prv22aiml@cmrit.ac.in | pranavv736@gmail.com
 
