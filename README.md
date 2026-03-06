@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&center=true&vCenter=true&width=1000&lines=Pranav+V;AI+Engineer+%7C+Full+Stack+Developer;Machine+Learning+%7C+NLP+%7C+Computer+Vision;Building+AI-powered+Products" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&center=true&vCenter=true&width=1000&lines=PRANAV+VENU;AI+Engineer+%7C+Full+Stack+Developer;Machine+Learning+%7C+NLP+%7C+Computer+Vision;Building+AI-powered+Products" />
 
 </div>
 
