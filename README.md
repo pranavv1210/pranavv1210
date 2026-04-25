@@ -16,7 +16,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pranav-venu-550729264/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-000000?style=flat-square&logo=vercel)](https://pranavportfolioweb.onrender.com/)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/@pranavvenu)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-EA4335?style=flat-square&logo=gmail)](mailto:YOUR_EMAIL_HERE)
 
 </div>
 
@@ -24,42 +23,87 @@
 
 ## 👋 Who I Am
 
-I'm an **AI/ML Engineer and Full Stack Developer** based in India, available for **remote work and freelance projects worldwide.**
+I'm an **AI/ML Engineer and Full Stack Developer** based in Bengaluru, available for **remote work and freelance projects worldwide.**
 
-I don't just build models — I build *products*. That means taking an AI idea from raw data to a deployed application that solves a real problem. I've worked across NLP, Computer Vision, and full-stack web development, and I'm comfortable owning the entire stack.
+I don't just build models — I build *products*. That means taking an AI idea from raw data all the way to a deployed application that solves a real problem. I work across NLP, Computer Vision, automation pipelines, and full-stack web development, and I'm comfortable owning the entire stack.
 
 **What I'm best at:**
 - Taking a vague AI problem and turning it into something shippable
-- Building end-to-end ML pipelines (data → model → API → UI)
-- Integrating LLMs and AI APIs into production web apps
-- Automating workflows that save businesses real hours
+- Building end-to-end ML pipelines — data → model → API → UI
+- Integrating AI (pose estimation, LLMs, RAG) into real-world applications
+- Automating workflows that save businesses real time and money
 
-> 💼 **Currently available for:** Remote AI/ML roles · Freelance AI product builds · NLP & Computer Vision consulting
+> 💼 **Available for:** Remote AI/ML roles · Freelance AI product builds · NLP & Computer Vision consulting
 
 ---
 
 ## 🚀 Projects
 
-### 🔬 [Project Name 1](https://github.com/pranavv1210/YOUR-REPO)
-**What it does:** [1-line description — what problem does it solve?]  
-**Stack:** Python · HuggingFace Transformers · Flask · React  
-**Result:** [e.g., "Reduced document processing time by 60%" or "500+ API calls/day in production"]
+### 🏥 [ReviveMotion — AI Cancer Rehabilitation Platform](https://github.com/pranavv1210/ReviveMotion-Gamified-and-Monitoring-Platform)
+AI-powered gamified rehabilitation platform for cancer survivors. Patients complete guided exercises with real-time pose-based form feedback; clinicians get a live compliance dashboard with automated alerts when a patient's score drops below 75%.
+
+`Next.js` `Node.js` `Express` `Supabase` `MediaPipe` `Python/FastAPI` `Tailwind CSS`
+
+- Real-time pose estimation scores reps, accuracy, and posture on every session
+- Gamification engine: streaks, badges, difficulty levels, and points keep patients engaged
+- Role-based access for patients and clinicians with Supabase Auth + RLS policies
+- Auto-alerts to clinicians when compliance falls below threshold
+- Privacy-first: only anonymized keypoints stored, never raw video
 
 ---
 
-### 🧠 [Project Name 2](https://github.com/pranavv1210/YOUR-REPO)
-**What it does:** [1-line description]  
-**Stack:** OpenCV · scikit-learn · Node.js · MongoDB  
-**Result:** [measurable outcome]
+### 🎮 [Gesture Game Controller](https://github.com/pranavv1210/Gesture-Game-Controller)
+Control PC games with nothing but your hands. Real-time hand tracking via MediaPipe maps gestures to keyboard inputs — no controller, no wires needed.
+
+`Python` `OpenCV` `MediaPipe` `PyAutoGUI`
+
+- Sub-100ms gesture-to-keypress latency using hand landmark detection
+- Configurable gesture-to-action mapping — works with any keyboard-controlled game
+- Demonstrates real-time applied Computer Vision in a genuinely usable project
 
 ---
 
-### ⚙️ [Project Name 3](https://github.com/pranavv1210/YOUR-REPO)
-**What it does:** [1-line description]  
-**Stack:** Python · n8n · Firebase · Tailwind  
-**Result:** [measurable outcome]
+### 📄 [Terms & Conditions Summarizer](https://github.com/pranavv1210/Terms-and-Conditions-Summarizer-using-n8n)
+Paste a URL, get a plain-English summary of the Terms & Conditions in seconds. Built with n8n automation + RAG — scrapes, cleans, chunks, embeds, and summarises any T&C page end-to-end.
 
-> 📌 *See all pinned repos below for live demos and detailed writeups.*
+`Python` `n8n` `RAG` `LLM` `Web Scraping`
+
+- Full RAG pipeline: scrape → chunk → embed → retrieve → generate summary
+- Handles messy real-world T&C pages that break naive scrapers
+- Zero-touch automation orchestrated entirely through n8n workflows
+
+---
+
+### 🍽️ [Zomato Restaurant Analytics & Recommender](https://github.com/pranavv1210/Zomato-EDA)
+End-to-end data science project on Zomato restaurant data — from raw data cleaning through EDA, three ML models, and a content-based recommendation engine.
+
+`Python` `Pandas` `scikit-learn` `Matplotlib` `Seaborn`
+
+- Regression for rating prediction, clustering for restaurant segmentation, classification for cuisine type
+- Content-based recommender that suggests similar restaurants based on cuisine, cost, and location features
+- Full EDA with visual insights on pricing trends, location density, and cuisine distribution
+
+---
+
+### 🧠 [AI Resume Screening System](https://github.com/pranavv1210/AI-Driven-Resume-Screening)
+NLP-powered hiring tool that automatically parses, ranks, and matches candidate resumes against job descriptions — with explainability so recruiters understand *why* a resume ranked where it did.
+
+`JavaScript` `NLP` `Machine Learning`
+
+- Automated resume parsing and JD-to-resume similarity scoring
+- Explainable ranking: surfaces the exact skills and gaps driving each candidate's position
+- Designed to cut resume screening time from hours to minutes
+
+---
+
+### 📊 [Student Mental Health SQL Analysis](https://github.com/pranavv1210/Student-Mental-Health-Analysis-SQL)
+Data analysis project exploring how length of stay impacts international students' mental health indicators, using structured SQL queries for aggregation and segmentation across student cohorts.
+
+`Python` `MySQL` `Pandas`
+
+- Multi-variable statistical analysis of mental health scores across different cohorts
+- SQL aggregation pipelines for structured cohort comparison
+- Reproducible notebook with findings and visual summaries
 
 ---
 
@@ -74,15 +118,15 @@ I don't just build models — I build *products*. That means taking an AI idea f
 
 **AI / ML**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9900?style=flat-square&logo=huggingface&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
@@ -90,15 +134,15 @@ I don't just build models — I build *products*. That means taking an AI idea f
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-**Tools & Automation**
+**Automation & Tools**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ---
@@ -154,25 +198,15 @@ I don't just build models — I build *products*. That means taking an AI idea f
 
 ---
 
-## 🎯 Currently Working On
-
-- 🔨 **[Brief project description]** — [what it is, e.g., "An LLM-powered document analysis tool for legal teams"]
-- 📚 **Learning:** [e.g., "Fine-tuning LLMs with LoRA / RAG architectures / LangGraph agents"]
-- ✍️ **Writing about:** AI engineering, building real AI products, lessons from the field
-
----
-
 ## 💬 Work With Me
-
-I'm open to:
 
 | What | Details |
 |---|---|
 | 🌍 Remote AI/ML roles | Full-time or contract |
-| 🛠 Freelance projects | AI integration, NLP, CV, full-stack builds |
+| 🛠 Freelance projects | AI integration, NLP, CV, automation, full-stack |
 | 🤝 Collaborations | Open source, research, side projects |
 
-**Best way to reach me:** [pranavvenuwork@gmail.com](mailto:pranavvenuwork@gmail.com) · [LinkedIn DM](https://www.linkedin.com/in/pranav-venu-550729264/) · [Portfolio](https://pranavportfolioweb.onrender.com/)
+**Reach me:** [LinkedIn](https://www.linkedin.com/in/pranav-venu-550729264/) · [Portfolio](https://pranavportfolioweb.onrender.com/) · [YouTube](https://www.youtube.com/@pranavvenu)
 
 ---
 
