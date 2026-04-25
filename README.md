@@ -23,7 +23,7 @@
 
 ## 👋 Who I Am
 
-I'm an **AI/ML Engineer and Full Stack Developer** based in Bengaluru, available for **remote work and freelance projects worldwide.**
+I'm an **AI/ML Engineer and Full Stack Developer** based in Bengaluru, available for **remote work and freelance projects.**
 
 I don't just build models — I build *products*. That means taking an AI idea from raw data all the way to a deployed application that solves a real problem. I work across NLP, Computer Vision, automation pipelines, and full-stack web development, and I'm comfortable owning the entire stack.
 
@@ -39,30 +39,6 @@ I don't just build models — I build *products*. That means taking an AI idea f
 
 ## 🚀 Projects
 
-### 🏥 [ReviveMotion — AI Cancer Rehabilitation Platform](https://github.com/pranavv1210/ReviveMotion-Gamified-and-Monitoring-Platform)
-AI-powered gamified rehabilitation platform for cancer survivors. Patients complete guided exercises with real-time pose-based form feedback; clinicians get a live compliance dashboard with automated alerts when a patient's score drops below 75%.
-
-`Next.js` `Node.js` `Express` `Supabase` `MediaPipe` `Python/FastAPI` `Tailwind CSS`
-
-- Real-time pose estimation scores reps, accuracy, and posture on every session
-- Gamification engine: streaks, badges, difficulty levels, and points keep patients engaged
-- Role-based access for patients and clinicians with Supabase Auth + RLS policies
-- Auto-alerts to clinicians when compliance falls below threshold
-- Privacy-first: only anonymized keypoints stored, never raw video
-
----
-
-### 🎮 [Gesture Game Controller](https://github.com/pranavv1210/Gesture-Game-Controller)
-Control PC games with nothing but your hands. Real-time hand tracking via MediaPipe maps gestures to keyboard inputs — no controller, no wires needed.
-
-`Python` `OpenCV` `MediaPipe` `PyAutoGUI`
-
-- Sub-100ms gesture-to-keypress latency using hand landmark detection
-- Configurable gesture-to-action mapping — works with any keyboard-controlled game
-- Demonstrates real-time applied Computer Vision in a genuinely usable project
-
----
-
 ### 📄 [Terms & Conditions Summarizer](https://github.com/pranavv1210/Terms-and-Conditions-Summarizer-using-n8n)
 Paste a URL, get a plain-English summary of the Terms & Conditions in seconds. Built with n8n automation + RAG — scrapes, cleans, chunks, embeds, and summarises any T&C page end-to-end.
 
@@ -71,17 +47,6 @@ Paste a URL, get a plain-English summary of the Terms & Conditions in seconds. B
 - Full RAG pipeline: scrape → chunk → embed → retrieve → generate summary
 - Handles messy real-world T&C pages that break naive scrapers
 - Zero-touch automation orchestrated entirely through n8n workflows
-
----
-
-### 🍽️ [Zomato Restaurant Analytics & Recommender](https://github.com/pranavv1210/Zomato-EDA)
-End-to-end data science project on Zomato restaurant data — from raw data cleaning through EDA, three ML models, and a content-based recommendation engine.
-
-`Python` `Pandas` `scikit-learn` `Matplotlib` `Seaborn`
-
-- Regression for rating prediction, clustering for restaurant segmentation, classification for cuisine type
-- Content-based recommender that suggests similar restaurants based on cuisine, cost, and location features
-- Full EDA with visual insights on pricing trends, location density, and cuisine distribution
 
 ---
 
