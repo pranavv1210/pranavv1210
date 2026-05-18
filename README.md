@@ -3,7 +3,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Pranav%20Venu&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Full%20Stack%20Developer&descAlignY=60&descSize=20" />
 
 </div>
-hdhdhdhdhddudxhxhxhxcufhryyeueed
 
 <div align="center">
 
