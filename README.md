@@ -39,36 +39,36 @@ I don't just build models — I build *products*. That means taking an AI idea f
 
 ## 🚀 Projects
 
-### 📄 [Terms & Conditions Summarizer](https://github.com/pranavv1210/Terms-and-Conditions-Summarizer-using-n8n)
-Paste a URL, get a plain-English summary of the Terms & Conditions in seconds. Built with n8n automation + RAG — scrapes, cleans, chunks, embeds, and summarises any T&C page end-to-end.
+### 🩺 [CardioGuard: AI-Powered Mobile Heart Disease Analyzer](https://github.com/pranavv1210/cardio-guard)
+Turns any smartphone into a clinical-grade cardiac screening tool. Trained on the PhysioNet 2016 dataset (3,240+ heart sound recordings) using mel-spectrogram preprocessing and deep learning, reaching 92.23% AUC — then compressed with TensorFlow Lite for real-time, offline, on-device inference.
 
-`Python` `n8n` `RAG` `LLM` `Web Scraping`
+`Python` `TensorFlow/Keras` `TensorFlow Lite` `Librosa` `OpenCV` `Streamlit`
 
-- Full RAG pipeline: scrape → chunk → embed → retrieve → generate summary
-- Handles messy real-world T&C pages that break naive scrapers
-- Zero-touch automation orchestrated entirely through n8n workflows
-
----
-
-### 🧠 [AI Resume Screening System](https://github.com/pranavv1210/AI-Driven-Resume-Screening)
-NLP-powered hiring tool that automatically parses, ranks, and matches candidate resumes against job descriptions — with explainability so recruiters understand *why* a resume ranked where it did.
-
-`JavaScript` `NLP` `Machine Learning`
-
-- Automated resume parsing and JD-to-resume similarity scoring
-- Explainable ranking: surfaces the exact skills and gaps driving each candidate's position
-- Designed to cut resume screening time from hours to minutes
+- Deep learning on mel-spectrograms achieves 92.23% AUC for heart sound classification
+- TensorFlow Lite optimization cuts model size by 91% (1.33MB → 0.12MB) for real-time mobile inference
+- Streamlit web app with QR-based workflows for offline, mobile-first cardiac screening
 
 ---
 
-### 📊 [Student Mental Health SQL Analysis](https://github.com/pranavv1210/Student-Mental-Health-Analysis-SQL)
-Data analysis project exploring how length of stay impacts international students' mental health indicators, using structured SQL queries for aggregation and segmentation across student cohorts.
+### 🧠 [AI Resume Screening System with Chatbot Integration](https://github.com/pranavv1210/AI-Driven-Resume-Screening)
+NLP-driven recruitment platform that parses, ranks, and semantically matches resumes to job descriptions with explainable, bias-mitigated scoring — plus a proactive AI chatbot that gives candidates real-time resume feedback before they apply.
 
-`Python` `MySQL` `Pandas`
+`React.js` `Node.js` `Hugging Face` `spaCy` `Supabase` `Rasa`
 
-- Multi-variable statistical analysis of mental health scores across different cohorts
-- SQL aggregation pipelines for structured cohort comparison
-- Reproducible notebook with findings and visual summaries
+- Semantic JD-to-resume matching with explainable, bias-mitigated candidate scores
+- Proactive AI chatbot delivers real-time resume feedback before submission
+- Collaborative HR dashboard for evaluation and intelligent candidate insights
+
+---
+
+### 🚔 [Operation Gridlock: Gen-AI Vehicle Detection & Pursuit System](https://github.com/pranavv1210/gridlock-vehicle-tracking)
+Real-time Gen-AI pipeline that detects, identifies, and tracks vehicles across citywide CCTV networks — restoring unclear footage and forecasting a target's next move to enable fast, intelligent interception.
+
+`SAM3` `Qwen ImageEdit 2509` `LLaMA 3.2` `Real-ESRGAN` `Stable Diffusion` `CCTV Processing`
+
+- Segmentation-level vehicle isolation (SAM3) combined with clarity restoration via Real-ESRGAN + Stable Diffusion
+- Route-forecasting engine predicts a target vehicle's next junction and ETA
+- Real-time geo-coordinate alerting dashboard built for law enforcement automation
 
 ---
 
