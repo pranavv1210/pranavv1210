@@ -37,7 +37,7 @@ I don't just build models — I build *products*. That means taking an AI idea f
 
 ---
 
-## 🏍️ Startup
+## 🏍️ Project 
 
 ### [JourneySync — Motorcycle Group Riding App](https://github.com/pranavv1210/JourneySync-App)
 
