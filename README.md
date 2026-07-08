@@ -37,6 +37,25 @@ I don't just build models — I build *products*. That means taking an AI idea f
 
 ---
 
+## 🏍️ Startup
+
+### [JourneySync — Motorcycle Group Riding App](https://github.com/pranavv1210/JourneySync-App)
+
+> A real-time coordination platform built for motorcycle groups — from the first meeting point to the last junction.
+
+JourneySync solves the chaos of group riding: scattered WhatsApp threads, no live map sync, lost riders, and zero safety net. Built end-to-end as a cross-platform mobile app.
+
+`Flutter` `Firebase` `Google Maps SDK` `FastAPI` `WebSockets` `Supabase`
+
+**Core Features:**
+- 🗺️ **Live group tracking** — real-time location sync across the entire ride group on a shared map
+- 📲 **QR-based lobby onboarding** — scan once, join the group ride instantly; no manual sharing needed
+- 🎙️ **Pack intercom with wind noise reduction** — in-ride voice communication optimized for highway speeds
+- 🏔️ **Offline topographic maps** — full route visibility even in dead zones and remote terrain
+- 🚨 **Crash detection + SOS beacon** — auto-detects falls via sensor fusion and triggers emergency alerts with GPS coordinates
+
+---
+
 ## 🚀 Projects
 
 ### 🩺 [CardioGuard: AI-Powered Mobile Heart Disease Analyzer](https://github.com/pranavv1210/cardio-guard)
@@ -116,14 +135,20 @@ Real-time Gen-AI pipeline that detects, identifies, and tracks vehicles across c
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranavv1210&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavv1210&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranavv1210&theme=midnight_purple"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranavv1210&theme=midnight_purple"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=pranavv1210&theme=midnight-purple&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranavv1210&theme=midnight_purple&utcOffset=5.5" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=pranavv1210&theme=midnight-purple&hide_border=true" />
 
 </div>
 
