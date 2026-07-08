@@ -158,7 +158,7 @@ Real-time Gen-AI pipeline that detects, identifies, and tracks vehicles across c
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pranavv1210&theme=darkhub&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy-gamma-beige.vercel.app/?username=pranavv1210&theme=darkhub&no-frame=true&row=1&column=7" />
 
 </div>
 
