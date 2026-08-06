@@ -1,206 +1,78 @@
-<div align="center">
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Pranav%20Venu;Welcome+to+my+profile!" alt="Typing SVG" />
+</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Pranav%20Venu&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Full%20Stack%20Developer&descAlignY=60&descSize=20" />
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/168800261?u=fe9adcca9fa3a88d0704963da6965645309eacb4&v=4" width="150" style="border-radius: 50%;" alt="Pranav Venu" />
+</p>
 
-</div>
-<div align="center">
+## 👨‍💻 About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI+products+that+actually+ship.;NLP+%7C+Computer+Vision+%7C+Full+Stack+AI;Open+to+remote+roles+%26+freelance+projects." alt="Typing SVG" />
+Emerging AI/ML Engineer | Tech & Design Enthusiast | Impact-Driven Innovator
 
-</div>
+- 📍 Based in **Bengaluru**
+- 🌐 Check out my [website](https://pranavportfolioweb.onrender.com/)
+- 👥 **19** followers · **12** following
 
-<div align="center">
+## 🛠️ Languages & Tools
 
-![Profile Views](https://komarev.com/ghpvc/?username=pranavv1210&label=Profile+Views&color=7c3aed&style=flat-square)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pranav-venu-550729264/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-000000?style=flat-square&logo=vercel)](https://pranavportfolioweb.onrender.com/)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/@pranavvenu)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-</div>
-
----
-
-## 👋 Who I Am
-
-I'm an **AI/ML Engineer and Full Stack Developer** based in Bengaluru, available for **remote work and freelance projects.**
-
-I don't just build models — I build *products*. That means taking an AI idea from raw data all the way to a deployed application that solves a real problem. I work across NLP, Computer Vision, automation pipelines, and full-stack web development, and I'm comfortable owning the entire stack.
-
-**What I'm best at:**
-- Taking a vague AI problem and turning it into something shippable
-- Building end-to-end ML pipelines — data → model → API → UI
-- Integrating AI (pose estimation, LLMs, RAG) into real-world applications
-- Automating workflows that save businesses real time and money
-
-> 💼 **Available for:** Remote AI/ML roles · Freelance AI product builds · NLP & Computer Vision consulting
-
----
-
-## 🏍️ Project 
-
-### [JourneySync — Motorcycle Group Riding App](https://github.com/pranavv1210/JourneySync-App)
-
-> A real-time coordination platform built for motorcycle groups — from the first meeting point to the last junction.
-
-JourneySync solves the chaos of group riding: scattered WhatsApp threads, no live map sync, lost riders, and zero safety net. Built end-to-end as a cross-platform mobile app.
-
-`Flutter` `Firebase` `Google Maps SDK` `FastAPI` `WebSockets` `Supabase`
-
-**Core Features:**
-- 🗺️ **Live group tracking** — real-time location sync across the entire ride group on a shared map
-- 📲 **QR-based lobby onboarding** — scan once, join the group ride instantly; no manual sharing needed
-- 🎙️ **Pack intercom with wind noise reduction** — in-ride voice communication optimized for highway speeds
-- 🏔️ **Offline topographic maps** — full route visibility even in dead zones and remote terrain
-- 🚨 **Crash detection + SOS beacon** — auto-detects falls via sensor fusion and triggers emergency alerts with GPS coordinates
-
----
-
-## 🚀 Projects
-
-### 🩺 [CardioGuard: AI-Powered Mobile Heart Disease Analyzer](https://github.com/pranavv1210/cardio-guard)
-Turns any smartphone into a clinical-grade cardiac screening tool. Trained on the PhysioNet 2016 dataset (3,240+ heart sound recordings) using mel-spectrogram preprocessing and deep learning, reaching 92.23% AUC — then compressed with TensorFlow Lite for real-time, offline, on-device inference.
-
-`Python` `TensorFlow/Keras` `TensorFlow Lite` `Librosa` `OpenCV` `Streamlit`
-
-- Deep learning on mel-spectrograms achieves 92.23% AUC for heart sound classification
-- TensorFlow Lite optimization cuts model size by 91% (1.33MB → 0.12MB) for real-time mobile inference
-- Streamlit web app with QR-based workflows for offline, mobile-first cardiac screening
-
----
-
-### 🧠 [AI Resume Screening System with Chatbot Integration](https://github.com/pranavv1210/AI-Driven-Resume-Screening)
-NLP-driven recruitment platform that parses, ranks, and semantically matches resumes to job descriptions with explainable, bias-mitigated scoring — plus a proactive AI chatbot that gives candidates real-time resume feedback before they apply.
-
-`React.js` `Node.js` `Hugging Face` `spaCy` `Supabase` `Rasa`
-
-- Semantic JD-to-resume matching with explainable, bias-mitigated candidate scores
-- Proactive AI chatbot delivers real-time resume feedback before submission
-- Collaborative HR dashboard for evaluation and intelligent candidate insights
-
----
-
-### 🚔 [Operation Gridlock: Gen-AI Vehicle Detection & Pursuit System](https://github.com/pranavv1210/gridlock-vehicle-tracking)
-Real-time Gen-AI pipeline that detects, identifies, and tracks vehicles across citywide CCTV networks — restoring unclear footage and forecasting a target's next move to enable fast, intelligent interception.
-
-`SAM3` `Qwen ImageEdit 2509` `LLaMA 3.2` `Real-ESRGAN` `Stable Diffusion` `CCTV Processing`
-
-- Segmentation-level vehicle isolation (SAM3) combined with clarity restoration via Real-ESRGAN + Stable Diffusion
-- Route-forecasting engine predicts a target vehicle's next junction and ETA
-- Real-time geo-coordinate alerting dashboard built for law enforcement automation
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**AI / ML**
-
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9900?style=flat-square&logo=huggingface&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Automation & Tools**
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
----
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://www.gitskins.com/api/premium-card?username=pranavv1210&theme=aurora" alt="GitHub Stats" />
+</p>
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranavv1210&theme=midnight_purple"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranavv1210&theme=midnight_purple"/>
+<p align="center">
+  <img src="https://www.gitskins.com/api/languages?username=pranavv1210&theme=aurora" alt="Top Languages" />
+</p>
 
-</div>
+## 🚀 Featured Projects
 
-<div align="center">
+### [JourneySync-App](https://github.com/pranavv1210/JourneySync-App) `Dart`
+JourneySync is a ride coordination app for bikers to create, discover, and join rides in real time. It includes Gmail login, profile management, nearby ride alerts, ride lobby/live ride tracking, SOS sharing features, and Supabase-powered backend services for authentication, data, and storage.
+⭐ 8 | 🍴 0
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pranavv1210&theme=midnight_purple&utcOffset=5.5" />
+### [cardio-guard](https://github.com/pranavv1210/cardio-guard) `Python`
+AI-powered heart sound classifier using EfficientNet-B0 CNN. Trained on PhysioNet/CinC 2016 — classifies heart sounds as Normal/Abnormal with 95.5% sensitivity and 92% AUC-ROC. Features a Gradio web interface with waveform & mel spectrogram visualization.
+⭐ 2 | 🍴 0
 
-</div>
+### [gridlock-vehicle-tracking](https://github.com/pranavv1210/gridlock-vehicle-tracking) `Python`
+AI-powered urban security intelligence platform for real-time suspect vehicle tracking using computer vision & geospatial prediction
+⭐ 2 | 🍴 0
 
-<div align="center">
+### [deep-learning](https://github.com/pranavv1210/deep-learning) `Jupyter Notebook`
+Beginner-friendly deep learning tutorial repo with step-by-step notebooks, examples, exercises, and end-to-end projects.
+⭐ 2 | 🍴 0
 
-<img src="https://streak-stats.demolab.com?user=pranavv1210&theme=midnight-purple&hide_border=true" />
+### [machine-learning](https://github.com/pranavv1210/machine-learning) `Jupyter Notebook`
+Beginner-friendly Machine Learning learning repository with step-by-step notebooks, datasets, examples, and projects.
+⭐ 2 | 🍴 0
 
-</div>
+### [scikit-learn](https://github.com/pranavv1210/scikit-learn) `Jupyter Notebook`
+Scikit-learn machine learning practice notebooks, datasets, and projects organized by topic.
+⭐ 2 | 🍴 0
 
----
 
-## 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=pranavv1210&theme=aurora&style=jet&mode=light" /><img src="https://www.gitskins.com/api/section/heatmap?username=pranavv1210&theme=aurora&style=jet" alt="pranavv1210 contribution activity, with a jet firing at their busiest days" /></picture>
+</p>
 
-<img src="https://github-profile-trophy-gamma-beige.vercel.app/?username=pranavv1210&theme=darkhub&no-frame=true&row=1&column=7" />
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=pranavv1210&theme=aurora&mode=light" /><img src="https://www.gitskins.com/api/section/highlights?username=pranavv1210&theme=aurora" alt="pranavv1210 highlights" /></picture>
+</p>
 
-</div>
+## 🤝 Connect With Me
 
----
+<p align="center">
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=pranavv1210&theme=aurora&website=https%3A%2F%2Fpranavportfolioweb.onrender.com%2F&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=pranavv1210&theme=aurora&website=https%3A%2F%2Fpranavportfolioweb.onrender.com%2F" alt="pranavv1210 social links" /></picture>
+</p>
 
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranavv1210/pranavv1210/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranavv1210/pranavv1210/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/pranavv1210/pranavv1210/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavv1210&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&hide_border=true" />
-
-</div>
-
----
-
-## 💬 Work With Me
-
-| What | Details |
-|---|---|
-| 🌍 Remote AI/ML roles | Full-time or contract |
-| 🛠 Freelance projects | AI integration, NLP, CV, automation, full-stack |
-| 🤝 Collaborations | Open source, research, side projects |
-
-**Reach me:** [LinkedIn](https://www.linkedin.com/in/pranav-venu-550729264/) · [Portfolio](https://pranavportfolioweb.onrender.com/) · [YouTube](https://www.youtube.com/@pranavvenu)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranavv1210) [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pranavportfolioweb.onrender.com/)
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
-
-</div>
+<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>
