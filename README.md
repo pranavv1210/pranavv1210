@@ -40,7 +40,7 @@ I don't just build models — I build *products*. That means taking an AI idea f
 
 ## 🏍️ Flagship Project
 
-### [JourneySync — Motorcycle Group Riding App](https://github.com/pranavv1210/JourneySync-App) `Dart` · ⭐ 8 · 🍴 0
+### [JourneySync — Motorcycle Group Riding App](https://github.com/pranavv1210/JourneySync-App)
 
 > A real-time coordination platform built for motorcycle groups — from the first meeting point to the last junction.
 
@@ -60,7 +60,7 @@ JourneySync solves the chaos of group riding: scattered WhatsApp threads, no liv
 
 ## 🚀 Projects
 
-### 🩺 [CardioGuard: AI-Powered Mobile Heart Disease Analyzer](https://github.com/pranavv1210/cardio-guard) `Python` · ⭐ 2 · 🍴 0
+### 🩺 [CardioGuard: AI-Powered Mobile Heart Disease Analyzer](https://github.com/pranavv1210/cardio-guard)
 Turns any smartphone into a clinical-grade cardiac screening tool. Trained on the PhysioNet 2016 dataset (3,240+ heart sound recordings) using mel-spectrogram preprocessing and deep learning, reaching **92.23% AUC** — then compressed with TensorFlow Lite for real-time, offline, on-device inference.
 
 `Python` `TensorFlow/Keras` `TensorFlow Lite` `Librosa` `OpenCV` `Streamlit`
@@ -82,7 +82,7 @@ NLP-driven recruitment platform that parses, ranks, and semantically matches res
 
 ---
 
-### 🚔 [Operation Gridlock: Gen-AI Vehicle Detection & Pursuit System](https://github.com/pranavv1210/gridlock-vehicle-tracking) `Python` · ⭐ 2 · 🍴 0
+### 🚔 [Operation Gridlock: Gen-AI Vehicle Detection & Pursuit System](https://github.com/pranavv1210/gridlock-vehicle-tracking)
 Real-time Gen-AI pipeline that detects, identifies, and tracks vehicles across citywide CCTV networks — restoring unclear footage and forecasting a target's next move to enable fast, intelligent interception.
 
 `SAM3` `Qwen ImageEdit 2509` `LLaMA 3.2` `Real-ESRGAN` `Stable Diffusion` `CCTV Processing`
