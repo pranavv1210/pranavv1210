@@ -13,7 +13,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pranavv1210&label=Profile+Views&color=7c3aed&style=flat-square)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pranav-venu-550729264/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-000000?style=flat-square&logo=vercel)](https://pranavportfolioweb.onrender.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-000000?style=flat-square&logo=vercel)](https://pranavvenu.vercel.app/)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/@pranavvenu)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/pranavv1210)
 
