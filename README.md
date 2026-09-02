@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI+products+that+actually+ship.;NLP+%7C+Computer+Vision+%7C+Full+Stack+AI;Open+to+remote+roles+%26+freelance+projects." alt="Typing SVG" />
 
 </div>
-uuujju
+
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pranavv1210&label=Profile+Views&color=7c3aed&style=flat-square)
